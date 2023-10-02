@@ -1,1 +1,4 @@
-
+In this machine learning project, I delved into the Breast Cancer Wisconsin dataset, available on Kaggle. 
+This dataset encompasses critical information pertaining to breast cancer diagnoses, encompassing tumor characteristics and diagnostic outcomes. 
+My objective was to harness the power of machine learning to analyze this data comprehensively. 
+Through Logistic Regression, I trained a model that could predict whether the tumor is Benign(non-cancerous) or Malignant(potentially cancerous) on the basis of the inputs provided.
